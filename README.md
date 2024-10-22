@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GoatSKR
 - 🍑 Backend Development [JAVA, Go, Python]
-- 🎨 Frontend Development [React.js]
+- 🎨 Frontend Development [React.js, Talwinder CSS 😂]
 - 🌱 I’m currently learning Adaptations of life and code.
 - 💞️ I’m looking to collaborate on making projects on anything.
 - 📫 How to reach me [Check my profile throughly!]
