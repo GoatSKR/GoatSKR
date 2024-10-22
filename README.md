@@ -3,7 +3,7 @@
 - 🎨 Frontend Development [React.js]
 - 🌱 I’m currently learning Adaptations of life and code.
 - 💞️ I’m looking to collaborate on making projects on anything.
-- 📫 How to reach me [Go to my profile]
+- 📫 How to reach me [Check my profile throughly!]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Dating a Dev means you’ll never be their biggest bug, but you might be their favorite feature! 
 
